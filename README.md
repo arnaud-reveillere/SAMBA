@@ -5,7 +5,7 @@ SAMBA
 
 INTRODUCTION:
 
-This is a collection of Python functions giving a semi-analytical solution to the problem of leakage between two connected aquifers.
+This is a collection of Python functions giving a semi-analytical solution to the problem of leakage between two connected aquifers.\n
 
 The two aquifers are connected by a passive well (represented by a porous column and/or an open wellbore), and the solution accounts for the effect of the density difference between lifting and lifted brines during both upward and downward flow.
  
