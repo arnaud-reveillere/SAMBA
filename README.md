@@ -9,7 +9,7 @@ This is a collection of Python functions giving a semi-analytical solution to th
 
 The two aquifers are connected by a passive well (represented by a porous column and/or an open wellbore), and the solution accounts for the effect of the density difference between lifting and lifted brines during both upward and downward flow.
  
-More info on this solution can be found online on the wiki, or in the article published in Transport in Porous Media 100 (2), 337-361.
+More info on this solution can be found in the GitHub wiki or in the article published in Transport in Porous Media 100 (2), 337-361.
 
 AUTHOR:
 
